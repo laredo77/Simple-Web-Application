@@ -1,4 +1,4 @@
-# Ofir Shtrosberg 207828641, Itamar Laredo 311547087 #
+# Ofir Shtrosberg, Itamar Laredo
 import socket, sys
 import os
 
